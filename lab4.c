@@ -11,6 +11,8 @@
 void userInput();
 void fileReader(char *file);
 
+// adding this comment to test github desktop
+
 const char * smallestWord(char *sentence);
 const char * largestWord(char *sentence);
 
